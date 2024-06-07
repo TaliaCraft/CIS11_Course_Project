@@ -23,3 +23,5 @@ Input Prompt: The program will prompt the user to enter five test scores one by 
 Data Entry: User enters the scores, which must be between 0 and 100.
 Calculations and Grading: The program computes the maximum, minimum, and average scores, and determines the letter grade for each score.
 Results Display: The program displays the maximum, minimum, and average scores along with the letter grades for each test score.
+#### Assembler
+LC-3 Assembler
