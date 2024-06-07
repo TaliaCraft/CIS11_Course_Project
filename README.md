@@ -6,11 +6,17 @@ This project's objective is to create a program in LC3 assembly language that ac
 Input: Prompts the user to enter five test scores.
 Calculations: Computes the maximum, minimum, and average of the given test scores.
 Grading: Assigns a letter grade to each test score based on the following criteria:
+
 A: 90-100
+
 B: 80-89
+
 C: 70-79
+
 D: 60-69
+
 F: 0-59
+
 Output: Displays the maximum, minimum, and average scores along with the corresponding letter grades for each test score.
 #### Usage
 Input Prompt: The program will prompt the user to enter five test scores one by one.
